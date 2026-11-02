@@ -1,0 +1,8 @@
+Total Tasks: 500
+Completed Tasks: 285
+In Progress: 145
+Not Started: 70
+Completion Rate: 57.00%
+Delayed Tasks: 395
+At-Risk Tasks: 68
+On-Time Completion Rate: 36.84%

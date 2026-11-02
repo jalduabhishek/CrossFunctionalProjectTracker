@@ -1,0 +1,501 @@
+Task_ID,Department,City,Priority,Status,Start_Date,Due_Date,Actual_End_Date,Progress_Percent,Budget_INR,Delayed,At_Risk
+T0001,Operations,Hyderabad,Medium,Not Started,2026-08-07,2026-08-23,,0,38205,True,False
+T0002,Operations,Bangalore,Medium,In Progress,2026-10-13,2026-10-25,,20,127565,True,False
+T0003,Marketing,Bangalore,Low,In Progress,2026-08-28,2026-09-07,,79,86360,True,False
+T0004,Marketing,Mumbai,Medium,Completed,2026-08-18,2026-09-06,2026-09-12,100,48746,True,False
+T0005,Technology,Delhi,Medium,Not Started,2026-09-26,2026-10-07,,0,135037,True,False
+T0006,Technology,Hyderabad,High,Completed,2026-09-07,2026-09-10,2026-09-13,100,31600,True,False
+T0007,Technology,Bangalore,Medium,Not Started,2026-08-31,2026-09-09,,0,136775,True,False
+T0008,Marketing,Delhi,High,Completed,2026-09-05,2026-09-21,2026-09-23,100,56227,True,False
+T0009,Operations,Bangalore,Medium,In Progress,2026-09-20,2026-10-04,,69,23611,True,False
+T0010,Marketing,Hyderabad,Low,Completed,2026-10-02,2026-10-22,2026-10-21,100,43538,False,False
+T0011,Technology,Bangalore,High,Completed,2026-08-11,2026-08-29,2026-09-04,100,119251,True,False
+T0012,Technology,Mumbai,Medium,Completed,2026-09-22,2026-10-04,2026-10-07,100,15216,True,False
+T0013,Operations,Delhi,Medium,Completed,2026-08-09,2026-08-28,2026-08-31,100,21087,True,False
+T0014,Finance,Bangalore,Medium,In Progress,2026-09-17,2026-10-05,,35,94397,True,False
+T0015,Operations,Mumbai,High,Completed,2026-09-02,2026-09-23,2026-09-30,100,14857,True,False
+T0016,Operations,Hyderabad,High,Completed,2026-08-05,2026-08-16,2026-08-20,100,27679,True,False
+T0017,Technology,Bangalore,Medium,Completed,2026-09-28,2026-10-08,2026-10-14,100,54970,True,False
+T0018,Operations,Mumbai,High,In Progress,2026-08-02,2026-08-18,,49,110388,True,True
+T0019,Operations,Hyderabad,High,In Progress,2026-09-07,2026-09-19,,47,33270,True,True
+T0020,Marketing,Delhi,Medium,Completed,2026-08-23,2026-09-13,2026-09-10,100,57963,False,False
+T0021,Operations,Mumbai,Low,In Progress,2026-10-12,2026-10-23,,32,116992,True,False
+T0022,Finance,Mumbai,Medium,Completed,2026-09-28,2026-10-15,2026-10-14,100,21095,False,False
+T0023,Operations,Mumbai,Medium,Completed,2026-10-07,2026-10-23,2026-10-22,100,123213,False,False
+T0024,Technology,Bangalore,Low,In Progress,2026-08-14,2026-08-26,,71,102862,True,False
+T0025,Marketing,Mumbai,Medium,In Progress,2026-09-17,2026-10-01,,17,116049,True,False
+T0026,Marketing,Hyderabad,Medium,Completed,2026-08-04,2026-08-19,2026-08-16,100,104879,False,False
+T0027,Operations,Delhi,High,Not Started,2026-09-14,2026-10-05,,0,91349,True,True
+T0028,Marketing,Mumbai,Medium,Completed,2026-08-12,2026-09-02,2026-09-03,100,77522,True,False
+T0029,Marketing,Hyderabad,High,Completed,2026-09-20,2026-10-02,2026-10-03,100,141296,True,False
+T0030,Operations,Bangalore,Medium,Completed,2026-10-11,2026-10-20,2026-10-23,100,82894,True,False
+T0031,Finance,Mumbai,High,In Progress,2026-08-01,2026-08-21,,56,29635,True,True
+T0032,Marketing,Bangalore,High,In Progress,2026-08-09,2026-08-17,,30,102319,True,True
+T0033,Technology,Bangalore,Medium,Completed,2026-09-16,2026-10-06,2026-10-14,100,42230,True,False
+T0034,Operations,Delhi,Medium,Completed,2026-08-24,2026-09-11,2026-09-12,100,123156,True,False
+T0035,Finance,Mumbai,Low,Completed,2026-09-16,2026-09-28,2026-10-05,100,45835,True,False
+T0036,Finance,Hyderabad,High,Completed,2026-08-23,2026-09-03,2026-09-11,100,148933,True,False
+T0037,Operations,Hyderabad,Medium,Not Started,2026-08-17,2026-09-05,,0,26237,True,False
+T0038,Technology,Mumbai,Medium,In Progress,2026-08-24,2026-09-03,,41,134082,True,False
+T0039,Operations,Bangalore,High,Not Started,2026-09-26,2026-10-17,,0,43736,True,True
+T0040,Operations,Delhi,Low,Completed,2026-09-26,2026-10-02,2026-10-02,100,93914,False,False
+T0041,Technology,Hyderabad,High,Completed,2026-10-14,2026-10-31,2026-10-31,100,146056,False,False
+T0042,Marketing,Bangalore,High,Completed,2026-08-14,2026-08-21,2026-08-20,100,28455,False,False
+T0043,Operations,Bangalore,High,Completed,2026-10-09,2026-10-25,2026-10-30,100,91356,True,False
+T0044,Marketing,Delhi,Low,In Progress,2026-08-07,2026-08-24,,80,28348,True,False
+T0045,Marketing,Delhi,Low,Completed,2026-10-12,2026-10-20,2026-10-17,100,78402,False,False
+T0046,Technology,Bangalore,Low,Completed,2026-10-12,2026-11-01,2026-11-03,100,13480,True,False
+T0047,Technology,Bangalore,Medium,Completed,2026-09-24,2026-09-29,2026-10-04,100,68676,True,False
+T0048,Operations,Hyderabad,Medium,Not Started,2026-09-25,2026-10-13,,0,70491,True,False
+T0049,Marketing,Bangalore,High,Completed,2026-09-28,2026-10-06,2026-10-12,100,45072,True,False
+T0050,Finance,Mumbai,Medium,In Progress,2026-08-18,2026-09-07,,83,115470,True,False
+T0051,Technology,Mumbai,Medium,Completed,2026-08-31,2026-09-05,2026-09-09,100,144767,True,False
+T0052,Finance,Mumbai,High,Completed,2026-09-04,2026-09-25,2026-09-30,100,127720,True,False
+T0053,Finance,Hyderabad,High,In Progress,2026-08-08,2026-08-17,,22,36922,True,True
+T0054,Finance,Mumbai,High,Not Started,2026-08-24,2026-09-07,,0,33174,True,True
+T0055,Operations,Mumbai,High,Completed,2026-09-10,2026-09-13,2026-09-18,100,17755,True,False
+T0056,Operations,Delhi,High,In Progress,2026-09-08,2026-09-23,,78,65108,True,True
+T0057,Finance,Mumbai,Medium,Not Started,2026-09-29,2026-10-18,,0,85112,True,False
+T0058,Operations,Mumbai,High,Completed,2026-08-14,2026-08-29,2026-09-01,100,142838,True,False
+T0059,Marketing,Mumbai,Medium,Completed,2026-08-04,2026-08-23,2026-08-20,100,23065,False,False
+T0060,Finance,Delhi,Low,Completed,2026-08-04,2026-08-22,2026-08-28,100,122098,True,False
+T0061,Finance,Delhi,Low,In Progress,2026-10-13,2026-10-27,,64,96280,True,False
+T0062,Finance,Bangalore,Medium,Completed,2026-08-11,2026-09-01,2026-09-08,100,126718,True,False
+T0063,Marketing,Hyderabad,Medium,Completed,2026-08-29,2026-09-02,2026-08-30,100,70707,False,False
+T0064,Marketing,Delhi,High,Completed,2026-09-01,2026-09-13,2026-09-13,100,113172,False,False
+T0065,Marketing,Mumbai,Medium,Completed,2026-08-29,2026-09-16,2026-09-24,100,103918,True,False
+T0066,Finance,Hyderabad,Medium,Completed,2026-09-06,2026-09-27,2026-10-04,100,78495,True,False
+T0067,Technology,Delhi,Medium,In Progress,2026-09-30,2026-10-04,,34,34740,True,False
+T0068,Technology,Delhi,Medium,Not Started,2026-08-16,2026-09-05,,0,28494,True,False
+T0069,Finance,Bangalore,High,In Progress,2026-09-13,2026-09-17,,54,141032,True,True
+T0070,Technology,Delhi,Low,In Progress,2026-08-31,2026-09-14,,47,119568,True,False
+T0071,Finance,Hyderabad,Low,Completed,2026-09-24,2026-10-08,2026-10-04,100,23306,False,False
+T0072,Technology,Bangalore,High,In Progress,2026-08-01,2026-08-14,,50,75238,True,True
+T0073,Technology,Bangalore,Medium,In Progress,2026-09-08,2026-09-20,,30,93943,True,False
+T0074,Operations,Hyderabad,High,Completed,2026-09-24,2026-09-28,2026-09-30,100,102101,True,False
+T0075,Technology,Mumbai,Medium,In Progress,2026-09-24,2026-10-03,,72,135772,True,False
+T0076,Finance,Hyderabad,High,Completed,2026-09-09,2026-09-17,2026-09-17,100,32065,False,False
+T0077,Finance,Delhi,Low,Completed,2026-09-25,2026-10-05,2026-10-02,100,112156,False,False
+T0078,Operations,Bangalore,Low,In Progress,2026-09-15,2026-09-27,,21,62690,True,False
+T0079,Technology,Hyderabad,Medium,Not Started,2026-09-01,2026-09-06,,0,47935,True,False
+T0080,Finance,Hyderabad,High,In Progress,2026-09-17,2026-09-20,,68,86231,True,True
+T0081,Operations,Delhi,Low,Completed,2026-09-04,2026-09-25,2026-09-26,100,54154,True,False
+T0082,Marketing,Delhi,Low,In Progress,2026-08-23,2026-09-05,,19,64730,True,False
+T0083,Finance,Delhi,High,In Progress,2026-10-05,2026-10-08,,19,103205,True,True
+T0084,Finance,Delhi,Medium,Completed,2026-09-19,2026-10-04,2026-10-11,100,130882,True,False
+T0085,Operations,Delhi,High,In Progress,2026-08-19,2026-09-06,,26,12040,True,True
+T0086,Finance,Mumbai,High,Completed,2026-09-19,2026-09-24,2026-09-20,100,124798,False,False
+T0087,Technology,Hyderabad,High,In Progress,2026-09-30,2026-10-07,,14,103678,True,True
+T0088,Finance,Hyderabad,Medium,In Progress,2026-10-09,2026-10-27,,81,72517,True,False
+T0089,Operations,Mumbai,High,Completed,2026-08-16,2026-08-29,2026-09-03,100,86758,True,False
+T0090,Technology,Delhi,High,In Progress,2026-10-03,2026-10-07,,26,12204,True,True
+T0091,Marketing,Delhi,Low,In Progress,2026-09-23,2026-10-05,,14,19828,True,False
+T0092,Technology,Delhi,Low,In Progress,2026-08-04,2026-08-14,,24,61962,True,False
+T0093,Operations,Hyderabad,Low,Completed,2026-08-14,2026-08-27,2026-09-02,100,45627,True,False
+T0094,Technology,Hyderabad,High,Not Started,2026-09-12,2026-09-25,,0,52188,True,True
+T0095,Marketing,Bangalore,Medium,In Progress,2026-09-03,2026-09-23,,23,30781,True,False
+T0096,Marketing,Bangalore,Medium,Completed,2026-08-10,2026-08-15,2026-08-23,100,28773,True,False
+T0097,Finance,Mumbai,Medium,Completed,2026-09-28,2026-10-12,2026-10-13,100,98848,True,False
+T0098,Finance,Mumbai,Medium,Completed,2026-10-11,2026-10-25,2026-10-28,100,54386,True,False
+T0099,Finance,Delhi,Medium,Completed,2026-08-12,2026-08-19,2026-08-16,100,90144,False,False
+T0100,Marketing,Bangalore,Medium,In Progress,2026-09-14,2026-09-29,,62,54270,True,False
+T0101,Operations,Hyderabad,Medium,Completed,2026-09-09,2026-09-23,2026-09-25,100,60492,True,False
+T0102,Finance,Bangalore,Medium,Not Started,2026-08-10,2026-08-30,,0,129032,True,False
+T0103,Technology,Bangalore,Medium,Completed,2026-09-09,2026-09-21,2026-09-27,100,63750,True,False
+T0104,Marketing,Delhi,High,In Progress,2026-08-09,2026-08-27,,14,20870,True,True
+T0105,Marketing,Bangalore,High,Completed,2026-08-26,2026-08-30,2026-09-04,100,136391,True,False
+T0106,Operations,Mumbai,Low,Completed,2026-10-02,2026-10-18,2026-10-15,100,43519,False,False
+T0107,Technology,Bangalore,Medium,Not Started,2026-08-09,2026-08-13,,0,149366,True,False
+T0108,Marketing,Hyderabad,Medium,In Progress,2026-08-11,2026-08-27,,74,64298,True,False
+T0109,Finance,Bangalore,High,Completed,2026-09-26,2026-10-08,2026-10-10,100,32925,True,False
+T0110,Technology,Delhi,Low,Not Started,2026-10-11,2026-10-24,,0,38067,True,False
+T0111,Finance,Hyderabad,High,Completed,2026-10-14,2026-11-02,2026-11-03,100,56003,True,False
+T0112,Operations,Hyderabad,Medium,Completed,2026-09-26,2026-10-16,2026-10-13,100,52888,False,False
+T0113,Operations,Delhi,High,Completed,2026-10-08,2026-10-14,2026-10-13,100,37214,False,False
+T0114,Marketing,Hyderabad,Medium,Completed,2026-09-13,2026-09-21,2026-09-20,100,127681,False,False
+T0115,Finance,Hyderabad,Medium,In Progress,2026-09-17,2026-10-05,,74,95936,True,False
+T0116,Operations,Bangalore,Medium,Completed,2026-08-28,2026-09-17,2026-09-23,100,56355,True,False
+T0117,Marketing,Bangalore,Low,Completed,2026-09-27,2026-10-08,2026-10-15,100,52697,True,False
+T0118,Technology,Delhi,Medium,Completed,2026-10-03,2026-10-22,2026-10-24,100,82379,True,False
+T0119,Operations,Delhi,Low,In Progress,2026-08-30,2026-09-09,,25,11196,True,False
+T0120,Marketing,Mumbai,High,Not Started,2026-08-15,2026-08-31,,0,72749,True,True
+T0121,Marketing,Mumbai,Medium,Completed,2026-09-01,2026-09-09,2026-09-07,100,108425,False,False
+T0122,Technology,Bangalore,Low,In Progress,2026-10-05,2026-10-17,,93,116601,True,False
+T0123,Technology,Hyderabad,Medium,Not Started,2026-09-16,2026-10-03,,0,74503,True,False
+T0124,Finance,Delhi,Medium,Completed,2026-08-09,2026-08-24,2026-08-27,100,144614,True,False
+T0125,Technology,Mumbai,Low,Completed,2026-10-12,2026-10-30,2026-11-04,100,145850,True,False
+T0126,Technology,Bangalore,High,Completed,2026-08-26,2026-09-07,2026-09-13,100,144856,True,False
+T0127,Marketing,Hyderabad,Medium,Not Started,2026-10-13,2026-10-20,,0,67621,True,False
+T0128,Operations,Hyderabad,High,In Progress,2026-09-10,2026-09-28,,32,139459,True,True
+T0129,Marketing,Hyderabad,High,Completed,2026-10-11,2026-10-14,2026-10-14,100,25299,False,False
+T0130,Finance,Bangalore,Medium,In Progress,2026-08-01,2026-08-20,,72,113521,True,False
+T0131,Marketing,Hyderabad,High,Completed,2026-08-08,2026-08-22,2026-08-21,100,130138,False,False
+T0132,Marketing,Delhi,Medium,In Progress,2026-09-09,2026-09-12,,74,66190,True,False
+T0133,Technology,Hyderabad,Medium,Completed,2026-09-01,2026-09-20,2026-09-22,100,58724,True,False
+T0134,Finance,Hyderabad,High,In Progress,2026-09-03,2026-09-13,,19,48475,True,True
+T0135,Technology,Hyderabad,High,Completed,2026-09-20,2026-09-29,2026-09-30,100,110470,True,False
+T0136,Marketing,Hyderabad,Low,Completed,2026-09-28,2026-10-08,2026-10-10,100,29155,True,False
+T0137,Operations,Bangalore,Low,In Progress,2026-09-25,2026-10-09,,15,64932,True,False
+T0138,Marketing,Hyderabad,Medium,Completed,2026-08-08,2026-08-17,2026-08-14,100,19403,False,False
+T0139,Marketing,Delhi,High,Completed,2026-10-12,2026-10-27,2026-11-03,100,58061,True,False
+T0140,Marketing,Mumbai,Low,In Progress,2026-09-07,2026-09-20,,93,49836,True,False
+T0141,Marketing,Hyderabad,High,Completed,2026-10-06,2026-10-26,2026-10-25,100,84136,False,False
+T0142,Finance,Bangalore,Medium,In Progress,2026-08-02,2026-08-10,,82,43792,True,False
+T0143,Marketing,Mumbai,High,Not Started,2026-08-01,2026-08-09,,0,18487,True,True
+T0144,Technology,Mumbai,Medium,Completed,2026-09-29,2026-10-18,2026-10-20,100,142991,True,False
+T0145,Finance,Bangalore,Low,Not Started,2026-09-20,2026-09-28,,0,120263,True,False
+T0146,Marketing,Delhi,Medium,Completed,2026-09-02,2026-09-17,2026-09-17,100,143749,False,False
+T0147,Finance,Bangalore,Medium,Completed,2026-10-10,2026-10-31,2026-11-05,100,24420,True,False
+T0148,Marketing,Delhi,High,Completed,2026-10-13,2026-10-24,2026-10-23,100,82252,False,False
+T0149,Finance,Mumbai,High,Completed,2026-09-17,2026-09-27,2026-10-03,100,18474,True,False
+T0150,Finance,Bangalore,High,Completed,2026-09-06,2026-09-16,2026-09-14,100,68325,False,False
+T0151,Operations,Delhi,High,Not Started,2026-08-13,2026-08-16,,0,25553,True,True
+T0152,Technology,Mumbai,Medium,Completed,2026-09-06,2026-09-19,2026-09-25,100,75412,True,False
+T0153,Finance,Bangalore,Medium,Completed,2026-08-20,2026-09-09,2026-09-11,100,130859,True,False
+T0154,Technology,Mumbai,Medium,Not Started,2026-08-18,2026-08-30,,0,16799,True,False
+T0155,Marketing,Mumbai,Medium,Completed,2026-09-15,2026-09-18,2026-09-18,100,29348,False,False
+T0156,Operations,Hyderabad,High,Completed,2026-10-01,2026-10-04,2026-10-01,100,25488,False,False
+T0157,Technology,Bangalore,High,In Progress,2026-08-18,2026-09-01,,68,128921,True,True
+T0158,Marketing,Delhi,Low,In Progress,2026-09-04,2026-09-10,,86,118212,True,False
+T0159,Finance,Hyderabad,High,Not Started,2026-09-11,2026-09-22,,0,145557,True,True
+T0160,Technology,Hyderabad,Medium,In Progress,2026-10-13,2026-10-18,,37,86744,True,False
+T0161,Finance,Delhi,High,Completed,2026-09-15,2026-09-30,2026-09-30,100,125259,False,False
+T0162,Operations,Hyderabad,Medium,Completed,2026-08-03,2026-08-19,2026-08-17,100,102282,False,False
+T0163,Technology,Hyderabad,Medium,Completed,2026-09-23,2026-09-28,2026-10-05,100,30711,True,False
+T0164,Technology,Delhi,High,In Progress,2026-08-10,2026-08-14,,24,121211,True,True
+T0165,Technology,Delhi,High,Completed,2026-10-14,2026-10-27,2026-11-04,100,90893,True,False
+T0166,Technology,Mumbai,Low,Not Started,2026-08-10,2026-08-20,,0,85068,True,False
+T0167,Operations,Bangalore,High,Completed,2026-09-03,2026-09-17,2026-09-14,100,51266,False,False
+T0168,Marketing,Bangalore,Low,Completed,2026-08-04,2026-08-18,2026-08-16,100,42379,False,False
+T0169,Finance,Hyderabad,High,In Progress,2026-08-14,2026-08-27,,54,65463,True,True
+T0170,Finance,Bangalore,Medium,In Progress,2026-08-21,2026-09-07,,70,147679,True,False
+T0171,Operations,Mumbai,Medium,Completed,2026-08-03,2026-08-21,2026-08-21,100,82832,False,False
+T0172,Marketing,Mumbai,High,Not Started,2026-09-19,2026-09-29,,0,32402,True,True
+T0173,Technology,Mumbai,Low,Completed,2026-08-12,2026-08-27,2026-08-25,100,138788,False,False
+T0174,Finance,Hyderabad,High,Completed,2026-10-08,2026-10-27,2026-11-01,100,100221,True,False
+T0175,Finance,Bangalore,Medium,In Progress,2026-08-29,2026-09-13,,72,84752,True,False
+T0176,Finance,Hyderabad,High,Not Started,2026-09-12,2026-09-28,,0,131181,True,True
+T0177,Finance,Hyderabad,High,Completed,2026-09-02,2026-09-19,2026-09-20,100,13239,True,False
+T0178,Operations,Hyderabad,Medium,In Progress,2026-10-09,2026-10-28,,63,65248,True,False
+T0179,Technology,Mumbai,Medium,In Progress,2026-08-29,2026-09-08,,10,94249,True,False
+T0180,Technology,Hyderabad,Medium,Completed,2026-08-26,2026-09-05,2026-09-05,100,65175,False,False
+T0181,Finance,Delhi,High,In Progress,2026-08-04,2026-08-13,,12,143686,True,True
+T0182,Technology,Delhi,High,In Progress,2026-09-13,2026-10-02,,39,48936,True,True
+T0183,Marketing,Delhi,High,Completed,2026-08-05,2026-08-16,2026-08-17,100,46321,True,False
+T0184,Operations,Delhi,Medium,Not Started,2026-08-19,2026-09-03,,0,104289,True,False
+T0185,Marketing,Hyderabad,High,Completed,2026-08-09,2026-08-17,2026-08-22,100,52228,True,False
+T0186,Finance,Hyderabad,Low,Not Started,2026-10-07,2026-10-16,,0,143420,True,False
+T0187,Technology,Delhi,High,Completed,2026-08-17,2026-08-30,2026-08-31,100,23577,True,False
+T0188,Finance,Hyderabad,Medium,Completed,2026-09-09,2026-09-15,2026-09-12,100,45456,False,False
+T0189,Marketing,Delhi,Low,In Progress,2026-09-09,2026-09-25,,72,51444,True,False
+T0190,Finance,Mumbai,Medium,In Progress,2026-08-03,2026-08-20,,13,38954,True,False
+T0191,Technology,Hyderabad,High,Not Started,2026-09-24,2026-09-28,,0,63885,True,True
+T0192,Marketing,Delhi,High,Completed,2026-10-03,2026-10-07,2026-10-08,100,35932,True,False
+T0193,Operations,Hyderabad,Low,Not Started,2026-09-23,2026-10-10,,0,57505,True,False
+T0194,Technology,Bangalore,High,Completed,2026-08-23,2026-08-29,2026-08-25,100,141603,False,False
+T0195,Operations,Hyderabad,Medium,Completed,2026-08-22,2026-09-03,2026-09-04,100,84164,True,False
+T0196,Marketing,Bangalore,Medium,Completed,2026-08-27,2026-09-01,2026-08-30,100,143315,False,False
+T0197,Operations,Mumbai,Low,Completed,2026-08-28,2026-09-10,2026-09-18,100,39080,True,False
+T0198,Operations,Mumbai,High,Completed,2026-08-12,2026-09-01,2026-08-28,100,55014,False,False
+T0199,Finance,Bangalore,Medium,Completed,2026-09-09,2026-09-22,2026-09-26,100,36213,True,False
+T0200,Finance,Hyderabad,Low,In Progress,2026-08-28,2026-09-08,,81,31402,True,False
+T0201,Finance,Hyderabad,Medium,Completed,2026-10-09,2026-10-18,2026-10-14,100,121224,False,False
+T0202,Technology,Bangalore,Medium,In Progress,2026-10-02,2026-10-09,,27,139330,True,False
+T0203,Technology,Mumbai,Medium,Completed,2026-09-11,2026-10-02,2026-10-01,100,49325,False,False
+T0204,Finance,Delhi,Medium,Completed,2026-09-02,2026-09-07,2026-09-13,100,98520,True,False
+T0205,Marketing,Mumbai,Low,Completed,2026-09-01,2026-09-17,2026-09-22,100,74554,True,False
+T0206,Marketing,Bangalore,Medium,Completed,2026-09-16,2026-10-07,2026-10-09,100,57980,True,False
+T0207,Technology,Delhi,Medium,In Progress,2026-09-13,2026-09-16,,93,72949,True,False
+T0208,Marketing,Hyderabad,Medium,Not Started,2026-09-03,2026-09-16,,0,115134,True,False
+T0209,Technology,Delhi,Low,Completed,2026-08-23,2026-09-08,2026-09-13,100,65191,True,False
+T0210,Marketing,Hyderabad,Medium,Completed,2026-09-12,2026-09-28,2026-10-05,100,56261,True,False
+T0211,Marketing,Delhi,Medium,Completed,2026-09-18,2026-09-29,2026-09-30,100,46195,True,False
+T0212,Operations,Hyderabad,Medium,In Progress,2026-08-07,2026-08-23,,66,52704,True,False
+T0213,Operations,Hyderabad,High,In Progress,2026-08-25,2026-09-14,,83,115175,True,True
+T0214,Operations,Hyderabad,High,Completed,2026-09-20,2026-10-07,2026-10-04,100,49275,False,False
+T0215,Marketing,Mumbai,Low,Completed,2026-09-20,2026-10-11,2026-10-14,100,86435,True,False
+T0216,Technology,Hyderabad,Medium,Completed,2026-10-11,2026-10-19,2026-10-23,100,18978,True,False
+T0217,Marketing,Bangalore,Medium,In Progress,2026-10-13,2026-10-26,,11,85494,True,False
+T0218,Marketing,Bangalore,Medium,Completed,2026-10-05,2026-10-11,2026-10-19,100,128624,True,False
+T0219,Finance,Mumbai,Medium,Completed,2026-08-25,2026-09-05,2026-09-09,100,123818,True,False
+T0220,Marketing,Hyderabad,Low,Not Started,2026-08-19,2026-08-28,,0,128066,True,False
+T0221,Finance,Hyderabad,Medium,In Progress,2026-08-18,2026-09-04,,18,77285,True,False
+T0222,Technology,Mumbai,High,In Progress,2026-09-17,2026-09-25,,35,46093,True,True
+T0223,Marketing,Bangalore,Medium,Completed,2026-09-19,2026-10-07,2026-10-06,100,130480,False,False
+T0224,Technology,Delhi,High,Completed,2026-09-04,2026-09-22,2026-09-19,100,127485,False,False
+T0225,Operations,Delhi,Medium,Completed,2026-08-09,2026-08-19,2026-08-20,100,149806,True,False
+T0226,Marketing,Delhi,High,Completed,2026-08-31,2026-09-14,2026-09-21,100,140607,True,False
+T0227,Marketing,Hyderabad,High,Completed,2026-09-14,2026-10-02,2026-10-01,100,47888,False,False
+T0228,Marketing,Hyderabad,Medium,Completed,2026-09-23,2026-10-11,2026-10-14,100,34690,True,False
+T0229,Operations,Mumbai,Medium,Completed,2026-08-23,2026-09-08,2026-09-14,100,101376,True,False
+T0230,Operations,Hyderabad,Low,Completed,2026-08-08,2026-08-12,2026-08-16,100,111898,True,False
+T0231,Operations,Hyderabad,Medium,Completed,2026-08-14,2026-08-25,2026-08-23,100,17198,False,False
+T0232,Marketing,Bangalore,Medium,In Progress,2026-09-21,2026-10-09,,87,124973,True,False
+T0233,Finance,Mumbai,Medium,In Progress,2026-09-23,2026-10-11,,24,78776,True,False
+T0234,Operations,Hyderabad,High,Not Started,2026-10-08,2026-10-12,,0,55625,True,True
+T0235,Operations,Mumbai,High,Completed,2026-09-10,2026-09-17,2026-09-13,100,22155,False,False
+T0236,Marketing,Hyderabad,High,In Progress,2026-09-28,2026-10-15,,79,57909,True,True
+T0237,Operations,Delhi,Low,In Progress,2026-08-12,2026-08-25,,55,73671,True,False
+T0238,Finance,Delhi,Medium,In Progress,2026-08-07,2026-08-21,,31,55821,True,False
+T0239,Finance,Delhi,Medium,Completed,2026-09-07,2026-09-15,2026-09-15,100,67623,False,False
+T0240,Operations,Bangalore,Medium,Completed,2026-08-16,2026-09-02,2026-08-30,100,57214,False,False
+T0241,Operations,Delhi,Low,Completed,2026-08-14,2026-08-30,2026-09-07,100,129519,True,False
+T0242,Operations,Hyderabad,Medium,Completed,2026-09-19,2026-09-25,2026-10-02,100,143417,True,False
+T0243,Finance,Hyderabad,High,Completed,2026-10-05,2026-10-16,2026-10-20,100,142522,True,False
+T0244,Marketing,Mumbai,Medium,In Progress,2026-09-25,2026-10-05,,80,61945,True,False
+T0245,Technology,Mumbai,High,In Progress,2026-08-02,2026-08-12,,51,96685,True,True
+T0246,Marketing,Mumbai,Medium,In Progress,2026-09-01,2026-09-10,,57,32085,True,False
+T0247,Marketing,Hyderabad,Medium,Completed,2026-08-21,2026-09-01,2026-09-04,100,99513,True,False
+T0248,Technology,Hyderabad,High,Completed,2026-08-05,2026-08-19,2026-08-26,100,118296,True,False
+T0249,Technology,Hyderabad,Low,Completed,2026-08-13,2026-08-31,2026-09-02,100,127667,True,False
+T0250,Finance,Mumbai,High,In Progress,2026-08-05,2026-08-16,,26,52163,True,True
+T0251,Technology,Delhi,High,Completed,2026-08-17,2026-08-21,2026-08-22,100,83002,True,False
+T0252,Operations,Delhi,Low,Completed,2026-08-11,2026-08-20,2026-08-20,100,44202,False,False
+T0253,Operations,Bangalore,High,In Progress,2026-08-27,2026-09-06,,27,122158,True,True
+T0254,Finance,Delhi,High,Completed,2026-10-09,2026-10-12,2026-10-09,100,74376,False,False
+T0255,Technology,Mumbai,Low,In Progress,2026-08-10,2026-08-14,,79,106879,True,False
+T0256,Technology,Delhi,High,Completed,2026-10-14,2026-10-18,2026-10-18,100,75576,False,False
+T0257,Finance,Delhi,Low,Completed,2026-09-13,2026-10-01,2026-10-09,100,55644,True,False
+T0258,Marketing,Bangalore,Low,Completed,2026-09-07,2026-09-25,2026-09-26,100,121274,True,False
+T0259,Technology,Mumbai,Medium,Completed,2026-08-10,2026-08-31,2026-08-28,100,121794,False,False
+T0260,Finance,Delhi,Medium,Completed,2026-09-14,2026-09-25,2026-09-26,100,122095,True,False
+T0261,Technology,Mumbai,Low,Completed,2026-10-09,2026-10-26,2026-10-26,100,47930,False,False
+T0262,Marketing,Hyderabad,Medium,In Progress,2026-09-12,2026-09-21,,57,61774,True,False
+T0263,Marketing,Hyderabad,Medium,Completed,2026-08-26,2026-09-03,2026-09-01,100,80091,False,False
+T0264,Technology,Hyderabad,High,In Progress,2026-08-30,2026-09-16,,74,84541,True,True
+T0265,Marketing,Bangalore,Low,In Progress,2026-10-02,2026-10-06,,66,148927,True,False
+T0266,Operations,Bangalore,Medium,Not Started,2026-10-10,2026-10-30,,0,91057,True,False
+T0267,Finance,Delhi,High,In Progress,2026-10-08,2026-10-21,,17,13714,True,True
+T0268,Marketing,Bangalore,Low,Completed,2026-08-16,2026-08-27,2026-08-28,100,10766,True,False
+T0269,Technology,Hyderabad,Medium,Not Started,2026-10-14,2026-10-24,,0,129125,True,False
+T0270,Technology,Delhi,High,In Progress,2026-08-21,2026-08-26,,52,40080,True,True
+T0271,Technology,Delhi,Low,Not Started,2026-10-12,2026-10-31,,0,36265,True,False
+T0272,Finance,Bangalore,Low,Completed,2026-08-09,2026-08-13,2026-08-14,100,123535,True,False
+T0273,Technology,Mumbai,Medium,Not Started,2026-09-24,2026-10-08,,0,137411,True,False
+T0274,Marketing,Hyderabad,Medium,Completed,2026-08-28,2026-09-16,2026-09-22,100,40969,True,False
+T0275,Finance,Delhi,Medium,Not Started,2026-08-22,2026-08-26,,0,13355,True,False
+T0276,Finance,Bangalore,Medium,In Progress,2026-09-13,2026-09-19,,63,103566,True,False
+T0277,Operations,Mumbai,Medium,Completed,2026-09-13,2026-09-24,2026-10-02,100,83115,True,False
+T0278,Finance,Delhi,High,Completed,2026-09-06,2026-09-15,2026-09-13,100,23553,False,False
+T0279,Technology,Hyderabad,Medium,In Progress,2026-09-01,2026-09-22,,30,21303,True,False
+T0280,Technology,Bangalore,Low,In Progress,2026-08-27,2026-09-07,,21,70351,True,False
+T0281,Marketing,Delhi,Medium,Not Started,2026-09-05,2026-09-26,,0,102500,True,False
+T0282,Operations,Delhi,Medium,Not Started,2026-09-22,2026-10-02,,0,16316,True,False
+T0283,Marketing,Hyderabad,Low,Completed,2026-08-22,2026-08-26,2026-08-22,100,126859,False,False
+T0284,Finance,Delhi,Medium,Not Started,2026-10-05,2026-10-18,,0,109105,True,False
+T0285,Marketing,Hyderabad,High,Not Started,2026-09-03,2026-09-11,,0,53491,True,True
+T0286,Finance,Delhi,High,Not Started,2026-08-15,2026-08-19,,0,104351,True,True
+T0287,Finance,Delhi,Low,Not Started,2026-09-23,2026-10-07,,0,127902,True,False
+T0288,Marketing,Hyderabad,High,In Progress,2026-08-23,2026-09-05,,42,86089,True,True
+T0289,Finance,Hyderabad,Low,In Progress,2026-09-27,2026-10-09,,48,73896,True,False
+T0290,Finance,Mumbai,Medium,Completed,2026-08-09,2026-08-13,2026-08-18,100,20841,True,False
+T0291,Technology,Hyderabad,Medium,Not Started,2026-10-02,2026-10-16,,0,22146,True,False
+T0292,Operations,Mumbai,High,Not Started,2026-08-12,2026-08-30,,0,40618,True,True
+T0293,Marketing,Bangalore,Low,Not Started,2026-08-04,2026-08-11,,0,88820,True,False
+T0294,Operations,Mumbai,High,Completed,2026-08-12,2026-08-17,2026-08-20,100,61009,True,False
+T0295,Finance,Mumbai,Medium,Completed,2026-09-10,2026-09-22,2026-09-28,100,130823,True,False
+T0296,Technology,Bangalore,Low,Completed,2026-10-04,2026-10-09,2026-10-06,100,76072,False,False
+T0297,Operations,Mumbai,Low,Completed,2026-09-02,2026-09-11,2026-09-17,100,27311,True,False
+T0298,Technology,Mumbai,Medium,In Progress,2026-08-14,2026-08-20,,67,32693,True,False
+T0299,Marketing,Hyderabad,Medium,Completed,2026-08-18,2026-09-03,2026-09-11,100,116823,True,False
+T0300,Operations,Hyderabad,Medium,Completed,2026-08-09,2026-08-12,2026-08-14,100,141145,True,False
+T0301,Marketing,Mumbai,Medium,Completed,2026-10-14,2026-11-03,2026-11-04,100,146263,True,False
+T0302,Operations,Bangalore,High,In Progress,2026-09-14,2026-09-28,,14,93704,True,True
+T0303,Finance,Delhi,Low,Completed,2026-09-05,2026-09-21,2026-09-17,100,122153,False,False
+T0304,Finance,Bangalore,Medium,Completed,2026-09-18,2026-09-29,2026-10-03,100,37032,True,False
+T0305,Finance,Hyderabad,Medium,In Progress,2026-09-17,2026-10-04,,67,140191,True,False
+T0306,Finance,Bangalore,Medium,In Progress,2026-08-28,2026-09-07,,52,16389,True,False
+T0307,Technology,Mumbai,High,In Progress,2026-09-04,2026-09-13,,21,64157,True,True
+T0308,Operations,Mumbai,Medium,Not Started,2026-09-17,2026-10-03,,0,48162,True,False
+T0309,Technology,Delhi,Low,Completed,2026-08-22,2026-08-28,2026-08-29,100,50786,True,False
+T0310,Marketing,Bangalore,Low,In Progress,2026-08-13,2026-08-29,,81,34525,True,False
+T0311,Finance,Mumbai,Medium,Completed,2026-08-30,2026-09-07,2026-09-06,100,53166,False,False
+T0312,Marketing,Delhi,Medium,In Progress,2026-08-12,2026-08-16,,45,77357,True,False
+T0313,Operations,Hyderabad,Medium,In Progress,2026-08-16,2026-08-27,,47,124878,True,False
+T0314,Marketing,Delhi,Medium,Completed,2026-08-18,2026-08-29,2026-08-29,100,64888,False,False
+T0315,Technology,Delhi,Medium,Completed,2026-08-14,2026-08-22,2026-08-22,100,28324,False,False
+T0316,Operations,Mumbai,Medium,Completed,2026-10-07,2026-10-14,2026-10-17,100,116842,True,False
+T0317,Operations,Hyderabad,Medium,In Progress,2026-08-02,2026-08-21,,63,149837,True,False
+T0318,Marketing,Bangalore,Low,Not Started,2026-09-07,2026-09-25,,0,60231,True,False
+T0319,Marketing,Hyderabad,High,Completed,2026-08-07,2026-08-18,2026-08-20,100,78871,True,False
+T0320,Marketing,Mumbai,Medium,In Progress,2026-09-12,2026-10-03,,19,109810,True,False
+T0321,Operations,Delhi,Low,Not Started,2026-09-29,2026-10-14,,0,132208,True,False
+T0322,Operations,Hyderabad,Medium,Completed,2026-09-26,2026-10-04,2026-10-10,100,94882,True,False
+T0323,Technology,Hyderabad,Medium,In Progress,2026-09-16,2026-09-24,,28,33772,True,False
+T0324,Operations,Delhi,High,Not Started,2026-09-27,2026-10-07,,0,18316,True,True
+T0325,Finance,Delhi,High,Completed,2026-09-21,2026-09-28,2026-10-04,100,147079,True,False
+T0326,Marketing,Hyderabad,High,In Progress,2026-10-08,2026-10-29,,79,68838,True,True
+T0327,Operations,Hyderabad,Low,Completed,2026-08-21,2026-08-24,2026-08-25,100,148041,True,False
+T0328,Marketing,Bangalore,Medium,In Progress,2026-08-19,2026-09-01,,42,113303,True,False
+T0329,Finance,Hyderabad,High,In Progress,2026-08-16,2026-08-25,,94,133615,True,True
+T0330,Operations,Delhi,Medium,In Progress,2026-08-16,2026-09-02,,17,29647,True,False
+T0331,Marketing,Mumbai,Medium,Completed,2026-09-26,2026-10-02,2026-09-30,100,89012,False,False
+T0332,Marketing,Mumbai,Low,In Progress,2026-09-05,2026-09-22,,68,28796,True,False
+T0333,Finance,Delhi,Medium,Not Started,2026-08-31,2026-09-04,,0,44422,True,False
+T0334,Finance,Bangalore,Medium,Completed,2026-09-01,2026-09-12,2026-09-09,100,38078,False,False
+T0335,Operations,Delhi,Medium,Completed,2026-08-15,2026-09-02,2026-08-31,100,137065,False,False
+T0336,Technology,Hyderabad,High,Completed,2026-08-09,2026-08-16,2026-08-15,100,28905,False,False
+T0337,Operations,Hyderabad,Medium,Completed,2026-08-31,2026-09-19,2026-09-23,100,65887,True,False
+T0338,Marketing,Delhi,High,In Progress,2026-09-02,2026-09-19,,23,39531,True,True
+T0339,Marketing,Hyderabad,Low,In Progress,2026-08-06,2026-08-13,,54,17075,True,False
+T0340,Finance,Hyderabad,Medium,In Progress,2026-09-10,2026-09-27,,61,27961,True,False
+T0341,Operations,Hyderabad,Low,In Progress,2026-10-13,2026-10-24,,14,132735,True,False
+T0342,Operations,Bangalore,Medium,In Progress,2026-08-13,2026-08-30,,62,50299,True,False
+T0343,Marketing,Delhi,High,Completed,2026-09-20,2026-10-02,2026-10-04,100,91570,True,False
+T0344,Finance,Mumbai,Medium,Not Started,2026-09-29,2026-10-06,,0,118402,True,False
+T0345,Technology,Mumbai,Medium,Completed,2026-09-20,2026-09-29,2026-10-05,100,73531,True,False
+T0346,Finance,Delhi,Low,Not Started,2026-09-24,2026-10-04,,0,59287,True,False
+T0347,Marketing,Bangalore,Medium,Not Started,2026-08-17,2026-08-21,,0,93634,True,False
+T0348,Marketing,Bangalore,High,In Progress,2026-10-05,2026-10-19,,42,95409,True,True
+T0349,Finance,Mumbai,Medium,In Progress,2026-10-06,2026-10-12,,38,42955,True,False
+T0350,Technology,Mumbai,Low,Completed,2026-09-19,2026-09-30,2026-09-28,100,138502,False,False
+T0351,Technology,Mumbai,Medium,Completed,2026-09-12,2026-09-23,2026-09-23,100,124555,False,False
+T0352,Finance,Hyderabad,Medium,Not Started,2026-08-03,2026-08-22,,0,17123,True,False
+T0353,Marketing,Bangalore,High,Not Started,2026-08-17,2026-09-03,,0,112867,True,True
+T0354,Finance,Mumbai,Medium,In Progress,2026-08-17,2026-09-04,,30,121374,True,False
+T0355,Operations,Mumbai,Low,In Progress,2026-08-03,2026-08-08,,64,62020,True,False
+T0356,Technology,Hyderabad,Medium,Completed,2026-09-09,2026-09-13,2026-09-17,100,53463,True,False
+T0357,Operations,Delhi,Low,Completed,2026-10-06,2026-10-27,2026-10-30,100,27989,True,False
+T0358,Operations,Mumbai,Low,Not Started,2026-10-12,2026-10-30,,0,56503,True,False
+T0359,Finance,Delhi,High,Completed,2026-08-15,2026-08-20,2026-08-20,100,19982,False,False
+T0360,Operations,Hyderabad,High,Completed,2026-09-09,2026-09-27,2026-10-02,100,91234,True,False
+T0361,Operations,Hyderabad,Medium,Not Started,2026-08-24,2026-09-08,,0,71599,True,False
+T0362,Technology,Hyderabad,Medium,Completed,2026-09-23,2026-09-29,2026-10-01,100,19551,True,False
+T0363,Operations,Mumbai,High,Completed,2026-09-29,2026-10-16,2026-10-15,100,121934,False,False
+T0364,Finance,Bangalore,Medium,Not Started,2026-08-25,2026-09-13,,0,20884,True,False
+T0365,Finance,Hyderabad,Medium,Completed,2026-09-03,2026-09-19,2026-09-23,100,137372,True,False
+T0366,Operations,Mumbai,Medium,Completed,2026-08-26,2026-09-08,2026-09-07,100,97061,False,False
+T0367,Marketing,Bangalore,Medium,Completed,2026-08-25,2026-09-10,2026-09-14,100,104465,True,False
+T0368,Technology,Bangalore,High,Completed,2026-08-04,2026-08-14,2026-08-15,100,22139,True,False
+T0369,Finance,Delhi,Medium,In Progress,2026-09-27,2026-10-04,,81,126165,True,False
+T0370,Marketing,Bangalore,Medium,Completed,2026-09-10,2026-09-22,2026-09-19,100,96761,False,False
+T0371,Technology,Hyderabad,Medium,Completed,2026-09-18,2026-10-02,2026-10-10,100,113252,True,False
+T0372,Operations,Delhi,Medium,Completed,2026-09-08,2026-09-28,2026-09-28,100,79091,False,False
+T0373,Technology,Mumbai,Low,Completed,2026-09-14,2026-09-20,2026-09-21,100,40368,True,False
+T0374,Operations,Delhi,High,Completed,2026-08-28,2026-09-14,2026-09-17,100,112686,True,False
+T0375,Technology,Delhi,Medium,Completed,2026-08-08,2026-08-28,2026-09-05,100,33431,True,False
+T0376,Marketing,Bangalore,Medium,In Progress,2026-08-24,2026-09-03,,34,116350,True,False
+T0377,Operations,Delhi,Low,Completed,2026-08-12,2026-08-29,2026-08-31,100,128963,True,False
+T0378,Marketing,Hyderabad,High,Completed,2026-08-27,2026-09-03,2026-09-07,100,46802,True,False
+T0379,Technology,Bangalore,Low,Not Started,2026-08-09,2026-08-22,,0,57724,True,False
+T0380,Technology,Bangalore,Low,Completed,2026-10-04,2026-10-14,2026-10-16,100,103543,True,False
+T0381,Finance,Delhi,Medium,Not Started,2026-08-23,2026-09-03,,0,147907,True,False
+T0382,Finance,Hyderabad,Medium,Completed,2026-08-03,2026-08-12,2026-08-16,100,86620,True,False
+T0383,Operations,Bangalore,Medium,In Progress,2026-08-31,2026-09-10,,67,114885,True,False
+T0384,Finance,Mumbai,Medium,Completed,2026-09-02,2026-09-08,2026-09-10,100,129073,True,False
+T0385,Finance,Mumbai,High,In Progress,2026-10-13,2026-10-26,,25,12961,True,True
+T0386,Finance,Mumbai,High,In Progress,2026-10-06,2026-10-14,,68,19092,True,True
+T0387,Operations,Delhi,Medium,Completed,2026-08-02,2026-08-21,2026-08-18,100,31755,False,False
+T0388,Technology,Bangalore,Medium,Completed,2026-08-29,2026-09-02,2026-09-03,100,122386,True,False
+T0389,Technology,Hyderabad,High,Completed,2026-09-14,2026-10-04,2026-10-04,100,86929,False,False
+T0390,Technology,Delhi,High,In Progress,2026-08-11,2026-08-27,,26,93920,True,True
+T0391,Finance,Hyderabad,Medium,Completed,2026-10-09,2026-10-21,2026-10-27,100,60353,True,False
+T0392,Technology,Delhi,High,Completed,2026-09-06,2026-09-22,2026-09-22,100,12581,False,False
+T0393,Marketing,Mumbai,Medium,In Progress,2026-09-17,2026-10-04,,54,123473,True,False
+T0394,Operations,Bangalore,High,Completed,2026-09-16,2026-09-30,2026-10-05,100,44379,True,False
+T0395,Operations,Delhi,High,Completed,2026-08-13,2026-08-23,2026-08-20,100,34733,False,False
+T0396,Operations,Hyderabad,Low,Completed,2026-09-15,2026-10-05,2026-10-07,100,12500,True,False
+T0397,Marketing,Hyderabad,Low,Completed,2026-10-05,2026-10-22,2026-10-27,100,145829,True,False
+T0398,Operations,Hyderabad,Low,In Progress,2026-09-29,2026-10-03,,15,128971,True,False
+T0399,Operations,Bangalore,Medium,Completed,2026-09-17,2026-09-30,2026-10-02,100,31501,True,False
+T0400,Technology,Bangalore,High,In Progress,2026-08-14,2026-09-02,,54,76146,True,True
+T0401,Technology,Bangalore,Medium,Not Started,2026-08-10,2026-08-26,,0,13266,True,False
+T0402,Marketing,Hyderabad,High,Completed,2026-08-14,2026-08-28,2026-09-05,100,82947,True,False
+T0403,Technology,Delhi,Low,Completed,2026-08-17,2026-08-23,2026-08-30,100,119943,True,False
+T0404,Operations,Bangalore,Low,Completed,2026-09-16,2026-09-20,2026-09-25,100,100162,True,False
+T0405,Finance,Bangalore,High,In Progress,2026-08-12,2026-08-31,,38,53417,True,True
+T0406,Operations,Mumbai,Medium,Completed,2026-09-05,2026-09-17,2026-09-17,100,13576,False,False
+T0407,Finance,Bangalore,Low,Completed,2026-09-09,2026-09-27,2026-10-05,100,45198,True,False
+T0408,Technology,Delhi,Low,Completed,2026-08-09,2026-08-17,2026-08-14,100,47907,False,False
+T0409,Operations,Delhi,High,Completed,2026-09-21,2026-10-02,2026-09-29,100,39397,False,False
+T0410,Marketing,Bangalore,Medium,Completed,2026-09-01,2026-09-12,2026-09-08,100,105955,False,False
+T0411,Technology,Mumbai,Medium,Completed,2026-08-29,2026-09-08,2026-09-04,100,73315,False,False
+T0412,Operations,Mumbai,Medium,In Progress,2026-09-04,2026-09-07,,42,128564,True,False
+T0413,Technology,Delhi,High,Completed,2026-09-14,2026-10-01,2026-10-01,100,129600,False,False
+T0414,Marketing,Bangalore,Medium,Not Started,2026-08-08,2026-08-17,,0,13117,True,False
+T0415,Finance,Bangalore,Medium,Completed,2026-09-27,2026-10-14,2026-10-16,100,98530,True,False
+T0416,Marketing,Hyderabad,Low,Completed,2026-08-28,2026-09-08,2026-09-16,100,86578,True,False
+T0417,Technology,Delhi,Medium,Not Started,2026-08-15,2026-08-18,,0,20897,True,False
+T0418,Marketing,Delhi,Medium,Completed,2026-10-03,2026-10-08,2026-10-16,100,50752,True,False
+T0419,Marketing,Delhi,High,Not Started,2026-08-10,2026-08-31,,0,47213,True,True
+T0420,Finance,Bangalore,High,Completed,2026-08-01,2026-08-21,2026-08-26,100,80338,True,False
+T0421,Finance,Hyderabad,High,Completed,2026-09-24,2026-10-13,2026-10-11,100,72755,False,False
+T0422,Operations,Mumbai,Low,Completed,2026-08-25,2026-09-07,2026-09-14,100,146714,True,False
+T0423,Operations,Delhi,Medium,Completed,2026-08-31,2026-09-10,2026-09-13,100,38025,True,False
+T0424,Technology,Bangalore,High,In Progress,2026-08-28,2026-09-05,,53,59730,True,True
+T0425,Marketing,Mumbai,Medium,Completed,2026-09-18,2026-09-27,2026-09-24,100,129368,False,False
+T0426,Operations,Bangalore,High,Not Started,2026-09-02,2026-09-11,,0,113772,True,True
+T0427,Operations,Bangalore,High,Completed,2026-09-07,2026-09-22,2026-09-27,100,58158,True,False
+T0428,Operations,Mumbai,Low,In Progress,2026-09-30,2026-10-05,,70,68221,True,False
+T0429,Technology,Bangalore,Medium,Completed,2026-10-14,2026-10-19,2026-10-21,100,125557,True,False
+T0430,Technology,Hyderabad,Medium,Completed,2026-08-14,2026-08-18,2026-08-26,100,94719,True,False
+T0431,Marketing,Mumbai,High,Completed,2026-08-03,2026-08-12,2026-08-11,100,125433,False,False
+T0432,Operations,Mumbai,High,Completed,2026-08-21,2026-08-31,2026-09-01,100,147231,True,False
+T0433,Marketing,Mumbai,High,Completed,2026-08-25,2026-09-01,2026-08-30,100,50808,False,False
+T0434,Finance,Bangalore,Low,Completed,2026-10-14,2026-11-01,2026-11-03,100,140664,True,False
+T0435,Marketing,Delhi,Medium,In Progress,2026-09-28,2026-10-10,,86,33776,True,False
+T0436,Marketing,Delhi,Low,Completed,2026-09-27,2026-10-01,2026-10-09,100,78995,True,False
+T0437,Operations,Hyderabad,Medium,Completed,2026-10-14,2026-10-22,2026-10-26,100,28679,True,False
+T0438,Operations,Bangalore,Medium,In Progress,2026-09-27,2026-10-09,,82,58724,True,False
+T0439,Operations,Hyderabad,Medium,Completed,2026-08-21,2026-09-05,2026-09-06,100,74764,True,False
+T0440,Marketing,Hyderabad,Medium,Not Started,2026-08-30,2026-09-05,,0,47848,True,False
+T0441,Finance,Hyderabad,Medium,Completed,2026-09-25,2026-10-07,2026-10-03,100,68484,False,False
+T0442,Marketing,Mumbai,Medium,Completed,2026-09-27,2026-10-06,2026-10-09,100,89211,True,False
+T0443,Technology,Mumbai,Low,Completed,2026-09-20,2026-10-11,2026-10-07,100,119861,False,False
+T0444,Marketing,Hyderabad,Low,Completed,2026-10-09,2026-10-22,2026-10-25,100,33797,True,False
+T0445,Operations,Hyderabad,Medium,Completed,2026-08-13,2026-09-02,2026-09-10,100,26126,True,False
+T0446,Marketing,Bangalore,Medium,Completed,2026-08-26,2026-09-09,2026-09-07,100,124226,False,False
+T0447,Operations,Delhi,Medium,Completed,2026-08-06,2026-08-21,2026-08-21,100,26614,False,False
+T0448,Marketing,Hyderabad,Low,Completed,2026-08-20,2026-08-29,2026-08-26,100,92269,False,False
+T0449,Marketing,Bangalore,Medium,Completed,2026-09-23,2026-09-27,2026-10-02,100,149968,True,False
+T0450,Finance,Mumbai,Low,Completed,2026-09-27,2026-10-17,2026-10-24,100,22286,True,False
+T0451,Finance,Delhi,Low,Not Started,2026-08-26,2026-09-03,,0,55670,True,False
+T0452,Marketing,Bangalore,Medium,Completed,2026-09-03,2026-09-16,2026-09-23,100,130256,True,False
+T0453,Marketing,Mumbai,High,Completed,2026-09-22,2026-09-27,2026-10-01,100,24356,True,False
+T0454,Marketing,Bangalore,High,Not Started,2026-09-19,2026-10-08,,0,114792,True,True
+T0455,Marketing,Hyderabad,High,Completed,2026-10-10,2026-10-19,2026-10-26,100,85204,True,False
+T0456,Marketing,Mumbai,High,Completed,2026-09-10,2026-09-17,2026-09-21,100,64029,True,False
+T0457,Operations,Delhi,High,In Progress,2026-08-25,2026-09-04,,30,58354,True,True
+T0458,Technology,Bangalore,Medium,Completed,2026-08-22,2026-09-05,2026-09-04,100,145269,False,False
+T0459,Marketing,Bangalore,Low,In Progress,2026-08-27,2026-08-31,,70,70074,True,False
+T0460,Finance,Bangalore,Low,Completed,2026-08-02,2026-08-06,2026-08-07,100,88681,True,False
+T0461,Operations,Delhi,Medium,Completed,2026-08-07,2026-08-23,2026-08-29,100,131711,True,False
+T0462,Technology,Bangalore,Medium,In Progress,2026-09-14,2026-10-03,,54,131668,True,False
+T0463,Operations,Delhi,Medium,Completed,2026-08-12,2026-08-31,2026-09-05,100,100776,True,False
+T0464,Marketing,Mumbai,High,Completed,2026-09-22,2026-10-08,2026-10-08,100,38610,False,False
+T0465,Technology,Delhi,Low,In Progress,2026-08-07,2026-08-13,,33,50923,True,False
+T0466,Operations,Hyderabad,Medium,In Progress,2026-08-17,2026-08-25,,61,51877,True,False
+T0467,Technology,Delhi,Medium,Completed,2026-10-07,2026-10-10,2026-10-18,100,112130,True,False
+T0468,Finance,Hyderabad,Medium,Completed,2026-08-19,2026-08-31,2026-09-07,100,71059,True,False
+T0469,Operations,Mumbai,Medium,Completed,2026-08-22,2026-09-05,2026-09-09,100,135737,True,False
+T0470,Technology,Hyderabad,High,Completed,2026-08-01,2026-08-07,2026-08-12,100,59297,True,False
+T0471,Operations,Mumbai,High,In Progress,2026-10-01,2026-10-13,,62,138695,True,True
+T0472,Finance,Delhi,High,Completed,2026-09-25,2026-09-29,2026-09-28,100,46782,False,False
+T0473,Marketing,Hyderabad,High,Completed,2026-08-10,2026-08-23,2026-08-24,100,79720,True,False
+T0474,Finance,Bangalore,Medium,In Progress,2026-08-24,2026-08-29,,72,69975,True,False
+T0475,Operations,Bangalore,Low,Completed,2026-09-11,2026-09-24,2026-09-28,100,19679,True,False
+T0476,Marketing,Delhi,High,In Progress,2026-10-11,2026-10-19,,10,111325,True,True
+T0477,Operations,Delhi,Low,In Progress,2026-08-06,2026-08-10,,35,13325,True,False
+T0478,Finance,Delhi,Low,Completed,2026-09-05,2026-09-18,2026-09-23,100,69674,True,False
+T0479,Marketing,Hyderabad,Medium,Completed,2026-10-06,2026-10-27,2026-10-28,100,31018,True,False
+T0480,Technology,Hyderabad,High,Completed,2026-08-08,2026-08-27,2026-08-24,100,103130,False,False
+T0481,Finance,Bangalore,High,Completed,2026-08-05,2026-08-14,2026-08-14,100,83002,False,False
+T0482,Marketing,Mumbai,Medium,Completed,2026-09-27,2026-10-04,2026-10-11,100,61106,True,False
+T0483,Operations,Delhi,Low,In Progress,2026-09-13,2026-09-18,,48,107141,True,False
+T0484,Finance,Hyderabad,High,Completed,2026-09-12,2026-09-15,2026-09-12,100,16615,False,False
+T0485,Marketing,Hyderabad,Low,Completed,2026-08-26,2026-09-12,2026-09-09,100,20060,False,False
+T0486,Finance,Bangalore,Medium,Completed,2026-09-12,2026-09-15,2026-09-14,100,93327,False,False
+T0487,Operations,Hyderabad,High,Completed,2026-09-07,2026-09-12,2026-09-13,100,87736,True,False
+T0488,Technology,Bangalore,Medium,In Progress,2026-09-05,2026-09-24,,43,122808,True,False
+T0489,Operations,Delhi,Medium,Completed,2026-10-05,2026-10-14,2026-10-16,100,140473,True,False
+T0490,Technology,Bangalore,Low,Completed,2026-08-15,2026-08-28,2026-09-04,100,78196,True,False
+T0491,Marketing,Delhi,High,Completed,2026-08-11,2026-08-15,2026-08-22,100,140405,True,False
+T0492,Finance,Delhi,High,In Progress,2026-10-02,2026-10-06,,23,136039,True,True
+T0493,Finance,Bangalore,High,In Progress,2026-10-03,2026-10-18,,32,116029,True,True
+T0494,Operations,Hyderabad,Medium,In Progress,2026-09-05,2026-09-14,,88,107619,True,False
+T0495,Operations,Hyderabad,Medium,In Progress,2026-08-31,2026-09-11,,67,115857,True,False
+T0496,Marketing,Hyderabad,High,Completed,2026-09-21,2026-10-04,2026-10-04,100,77393,False,False
+T0497,Finance,Bangalore,High,Completed,2026-10-03,2026-10-17,2026-10-22,100,91927,True,False
+T0498,Marketing,Bangalore,Medium,In Progress,2026-08-22,2026-09-09,,77,97467,True,False
+T0499,Finance,Bangalore,Medium,Completed,2026-08-08,2026-08-16,2026-08-22,100,83836,True,False
+T0500,Finance,Hyderabad,Medium,Completed,2026-08-30,2026-09-13,2026-09-11,100,41043,False,False
